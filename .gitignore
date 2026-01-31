@@ -1,0 +1,49 @@
+# Virtual Environment
+venv/
+
+# Model directories
+.ipynb_checkpoints/
+bge-large-en-v1.5/
+bge-reranker-large/
+gte-large-en-v1.5/
+nli-deberta-v3-large/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Outputs
+outputs/
