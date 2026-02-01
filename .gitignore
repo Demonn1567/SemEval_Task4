@@ -7,6 +7,8 @@ bge-large-en-v1.5/
 bge-reranker-large/
 gte-large-en-v1.5/
 nli-deberta-v3-large/
+mxbai-embed-large-v1/
+stsb-roberta-large/
 
 # Python cache
 __pycache__/
