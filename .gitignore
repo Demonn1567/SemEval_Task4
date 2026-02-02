@@ -9,6 +9,9 @@ gte-large-en-v1.5/
 nli-deberta-v3-large/
 mxbai-embed-large-v1/
 stsb-roberta-large/
+bge-reranker-v2-m3/
+jina-embeddings-v3
+jina-reranker-v2
 
 # Python cache
 __pycache__/
