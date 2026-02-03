@@ -12,6 +12,7 @@ stsb-roberta-large/
 bge-reranker-v2-m3/
 jina-embeddings-v3
 jina-reranker-v2
+stella_en_400M_v5
 
 # Python cache
 __pycache__/
